@@ -1,6 +1,6 @@
 {
   "name": "chzzk-js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "네이버 치지직(CHZZK) API를 위한 JavaScript SDK",
   "main": "chzzk.js",
   "type": "module",
